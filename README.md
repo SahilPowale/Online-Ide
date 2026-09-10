@@ -174,7 +174,7 @@ Online-Ide
 ## Clone Repository
 
 ```bash
-git clone https://github.com/FlameDash25/Online-Ide.git
+git clone https://github.com/SahilPowale/Online-Ide.git
 ```
 
 ## Install Frontend
@@ -232,16 +232,20 @@ Create a `.env` file and configure:
 
 # 📸 Screenshots
 
-Add screenshots for:
+**Home Page**
+![Home Page](Images/Homepage.png)
 
-- Home Page
-- Login
-- Registration
-- Monaco Editor
-- AI Code Generation
-- AI Refactoring
-- Share Code
-- User Dashboard
+**Login**
+![Login](Images/Login.png)
+
+**Registration**
+![Registration](Images/Register.png)
+
+**Architecture Diagram**
+![Architecture Diagram](Images/Diagram.png)
+
+**Account Dashboard**
+![Account Dashboard](Images/Accounts.png)
 
 ---
 
@@ -283,10 +287,10 @@ This project helped strengthen practical knowledge of:
 
 # 👨‍💻 Author
 
-**Sahil Powale**
+**Omkar Manthena**
 
-- GitHub: https://github.com/SahilPowale/Online-Ide
-- LinkedIn: https://www.linkedin.com/in/sahil-p-38a1b2249/
+- GitHub: https://github.com/FlameDash25
+- LinkedIn: https://www.linkedin.com/in/omkar-manthena-356132289/
 
 ---
 
