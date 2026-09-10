@@ -287,10 +287,10 @@ This project helped strengthen practical knowledge of:
 
 # 👨‍💻 Author
 
-**Omkar Manthena**
+**Sahil Powale**
 
-- GitHub: https://github.com/FlameDash25
-- LinkedIn: https://www.linkedin.com/in/omkar-manthena-356132289/
+- GitHub: https://github.com/SahilPowale
+- LinkedIn: https://www.linkedin.com/in/sahil-p-38a1b2249/
 
 ---
 
